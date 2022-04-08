@@ -1,0 +1,16 @@
+.video__iframe {
+  width: 515px;
+  height: 316px;
+  transition: transform 0.4s ease-in;
+}
+.video__iframe:first-of-type {
+  margin-right: 5px;
+}
+.video__iframe:last-of-type {
+  margin-left: 5px;
+}
+.video__iframe:hover {
+  transform: scale(1.04);
+}
+
+

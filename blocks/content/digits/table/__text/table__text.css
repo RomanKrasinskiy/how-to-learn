@@ -1,0 +1,8 @@
+.table__text {
+  padding-top: 20px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  z-index: 1;
+  margin: 0;
+}
