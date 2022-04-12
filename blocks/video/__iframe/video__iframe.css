@@ -2,6 +2,7 @@
   width: 515px;
   height: 316px;
   transition: transform 0.4s ease-in;
+  border: none;
 }
 .video__iframe:first-of-type {
   margin-right: 5px;

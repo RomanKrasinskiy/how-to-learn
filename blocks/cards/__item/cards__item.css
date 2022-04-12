@@ -2,11 +2,11 @@
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  
+
 
   margin-right: 100px;
   width: 240px;
 }
-.cards__item:nth-of-type(3) {
+.cards__item:nth-child(3n) {
   margin: 0;
 }
